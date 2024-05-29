@@ -3,7 +3,7 @@ Creating a virtual machine (VM) in Microsoft Azure is straightforward. Below are
 <img width="205" alt="image" src="https://github.com/tipros/AzureVM/assets/170012689/5046b188-d162-47d5-9e68-b78af110b0d8"></br>
 2 - Under <b>Virtual Machine</b>, click <b>Create</b>.</br>
 <img width="471" alt="image" src="https://github.com/tipros/AzureVM/assets/170012689/ef17d203-95d8-4170-89c5-89bfc671632c"></br>
-3 - Enter the required fields, select subscription, the resource group, and the type of VM:</br>
+3 - Enter the required fields, select subscription, the resource group, the type of VM, and other required fields:</br>
 <img width="577" alt="image" src="https://github.com/tipros/AzureVM/assets/170012689/6ed1a411-c12f-4c54-a286-69ec270e589a"></br>
 <img width="572" alt="image" src="https://github.com/tipros/AzureVM/assets/170012689/73e74851-77e2-4dcd-a288-5f70205132db"></br>
 4 - Enter an admin user account and password, then click on on <b>Review and Create</b>:</br>
